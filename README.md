@@ -140,9 +140,9 @@ python main.py
 
 # Hasil
 
-| Original | Grayscale | Blur | Sobel Edge |
-|---|---|---|---|
-| Gambar asli | Citra grayscale | Hasil blur | Hasil deteksi tepi |
+| Original | Grayscale | Sobel Edge |
+|---|---|---|
+| ![](assets/gambar.jpg) | ![](hasil/grayscale.jpg) | ![](hasil/sobel.jpg) |
 
 ---
 
